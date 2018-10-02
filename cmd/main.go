@@ -9,7 +9,7 @@ import (
 
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
-	db "qlsc.sdu/qlsc_zhxf/infiCombo_exporter/mongo"
+	db "github.com/sound-of-destiny/infiCombo_exporter/mongo"
 )
 
 const (
