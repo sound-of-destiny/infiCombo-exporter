@@ -1,0 +1,7 @@
+# Editor junk
+.idea/
+.vs/
+.vscode/
+
+# Ignore OSX indexing
+.DS_Store
